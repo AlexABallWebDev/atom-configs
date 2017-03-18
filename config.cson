@@ -1,0 +1,32 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "b0e36a7f-8ece-458d-b90e-aa36a62d7933"
+    html:
+      indent_size: 2
+    js:
+      indent_size: 2
+    php:
+      disabled: true
+  core:
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 16
+    scrollPastEnd: true
+    showIndentGuide: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "13a03ab0-5d06-acb9-e715-388a46df7d60"
+  linter:
+    errorPanelHeight: 30
+  "linter-jshint":
+    lintInlineJavaScript: true
+  minimap:
+    plugins:
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  welcome:
+    showOnStartup: false
